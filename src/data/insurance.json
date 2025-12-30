@@ -1,0 +1,953 @@
+[
+  {
+    "company": "Star Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.starhealth.in",
+    "packages": [
+      {
+        "name": "Star Comprehensive Plan",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["No room rent limit", "Maternity cover", "Organ donor expenses"],
+        "premium": "₹6,500 – ₹25,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "12,000+ cashless hospitals"
+      },
+      {
+        "name": "Family Health Optima",
+        "coverage": "₹3 Lakh – ₹25 Lakh",
+        "benefits": ["Family-wide sum insured", "Automatic restoration", "Newborn baby cover"],
+        "premium": "₹4,500 – ₹16,000 yearly",
+        "eligibility": "Adults 18–65, Children 1–25",
+        "hospitals": "10,000+ cashless hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "HDFC ERGO Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.hdfcergo.com",
+    "packages": [
+      {
+        "name": "Optima Secure",
+        "coverage": "₹5 Lakh – ₹2 Crore",
+        "benefits": ["4X coverage with Secure Benefit", "No room rent limit", "Lifetime renewability"],
+        "premium": "₹7,000 – ₹32,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "12,000+ cashless hospitals"
+      },
+      {
+        "name": "Health Suraksha",
+        "coverage": "₹3 Lakh – ₹75 Lakh",
+        "benefits": ["24x7 teleconsultation", "Accident coverage", "Daycare procedures"],
+        "premium": "₹5,000 – ₹18,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "10,000+ cashless hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Niva Bupa (Max Bupa)",
+    "category": "Health Insurance",
+    "website": "https://www.nivabupa.com",
+    "packages": [
+      {
+        "name": "ReAssure 2.0",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Unlimited reinstatement", "Booster sum insured", "Worldwide cover"],
+        "premium": "₹8,000 – ₹30,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "10,500+ hospitals"
+      },
+      {
+        "name": "Health Companion",
+        "coverage": "₹3 Lakh – ₹1 Crore",
+        "benefits": ["Pre & post hospitalization", "Modern treatments", "AYUSH coverage"],
+        "premium": "₹6,000 – ₹22,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "10,000+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "ICICI Lombard Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.icicilombard.com",
+    "packages": [
+      {
+        "name": "Health Shield",
+        "coverage": "₹5 Lakh – ₹50 Lakh",
+        "benefits": ["Cashless hospitalization", "Free health checkups", "Wellness rewards"],
+        "premium": "₹6,200 – ₹20,500 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "7,500+ hospitals"
+      },
+      {
+        "name": "Complete Health Insurance",
+        "coverage": "₹3 Lakh – ₹50 Lakh",
+        "benefits": ["Organ donor cover", "Hospital cash", "AYUSH treatments"],
+        "premium": "₹5,800 – ₹18,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,500+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Tata AIG Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.tataaig.com",
+    "packages": [
+      {
+        "name": "Medicare Premier",
+        "coverage": "₹5 Lakh – ₹3 Crore",
+        "benefits": ["Global coverage", "Maternity care", "AYUSH coverage"],
+        "premium": "₹8,500 – ₹40,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "10,000+ hospitals"
+      },
+      {
+        "name": "Wellsurance Family",
+        "coverage": "₹3 Lakh – ₹25 Lakh",
+        "benefits": ["Daily hospital cash", "ICU benefit", "Critical illness add-on"],
+        "premium": "₹4,500 – ₹16,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "8,500+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Bajaj Allianz Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.bajajallianz.com",
+    "packages": [
+      {
+        "name": "Health Guard",
+        "coverage": "₹1.5 Lakh – ₹1 Crore",
+        "benefits": ["AYUSH", "Daycare cover", "Family floater option"],
+        "premium": "₹5,000 – ₹20,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "8,000+ hospitals"
+      },
+      {
+        "name": "Extra Care Plan",
+        "coverage": "₹10 Lakh – ₹50 Lakh",
+        "benefits": ["Top-up cover", "Low premium", "Accidental care"],
+        "premium": "₹3,500 – ₹12,000 yearly",
+        "eligibility": "18–70 years",
+        "hospitals": "7,500+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Aditya Birla Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.adityabirlahealth.com",
+    "packages": [
+      {
+        "name": "Active Health Platinum",
+        "coverage": "₹2 Lakh – ₹2 Crore",
+        "benefits": ["Chronic care", "Wellness rewards", "Hospital cash"],
+        "premium": "₹6,500 – ₹28,000",
+        "eligibility": "18–65 years",
+        "hospitals": "10,000+ hospitals"
+      },
+      {
+        "name": "Super Health",
+        "coverage": "₹3 Lakh – ₹1 Crore",
+        "benefits": ["AYUSH cover", "Mental health coverage", "Annual checkup"],
+        "premium": "₹5,000 – ₹18,000",
+        "eligibility": "18–65 years",
+        "hospitals": "9,500+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "HealSure Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.healsure.in",
+    "packages": [
+      {
+        "name": "HealSure Premium Care",
+        "coverage": "₹5 Lakh – ₹50 Lakh",
+        "benefits": ["Cashless claim", "Room rent waiver", "Organ donor cover"],
+        "premium": "₹4,000 – ₹15,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,200+ hospitals"
+      },
+      {
+        "name": "HealSure Family Plan",
+        "coverage": "₹3 Lakh – ₹20 Lakh",
+        "benefits": ["Family floater", "Critical care", "No-claim bonus"],
+        "premium": "₹3,500 – ₹11,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "5,800+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "MedSecure India",
+    "category": "Health Insurance",
+    "website": "https://www.medsecure.in",
+    "packages": [
+      {
+        "name": "MedSecure Classic",
+        "coverage": "₹2 Lakh – ₹30 Lakh",
+        "benefits": ["AYUSH", "24/7 support", "Ambulance cover"],
+        "premium": "₹4,200 – ₹12,800 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "4,500+ hospitals"
+      },
+      {
+        "name": "MedSecure Supreme",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Worldwide claim", "Zero deductible", "Free checkups"],
+        "premium": "₹7,200 – ₹22,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "7,200+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "HealthShield India",
+    "category": "Health Insurance",
+    "website": "https://www.healthshield.in",
+    "packages": [
+      {
+        "name": "HealthShield Gold",
+        "coverage": "₹3 Lakh – ₹50 Lakh",
+        "benefits": ["Cashless claims", "Daily room rent", "Ambulance cover"],
+        "premium": "₹4,200 – ₹14,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,000+ hospitals"
+      },
+      {
+        "name": "HealthShield Family Plus",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Family floater", "Bariatric surgery", "Daycare procedures"],
+        "premium": "₹6,000 – ₹22,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,800+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "LifeCare Protect Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.lifecareprotect.in",
+    "packages": [
+      {
+        "name": "LifeCare Individual",
+        "coverage": "₹2 Lakh – ₹25 Lakh",
+        "benefits": ["AYUSH cover", "Free annual checkup", "Organ donor cover"],
+        "premium": "₹3,800 – ₹12,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "4,800+ hospitals"
+      },
+      {
+        "name": "LifeCare Family Plus",
+        "coverage": "₹3 Lakh – ₹50 Lakh",
+        "benefits": ["Family floater", "Maternity cover", "Modern treatments"],
+        "premium": "₹5,800 – ₹18,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,200+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "Apex Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.apexhealth.in",
+    "packages": [
+      {
+        "name": "Apex Care Classic",
+        "coverage": "₹2 Lakh – ₹40 Lakh",
+        "benefits": ["Accidental hospitalization", "Daycare coverage", "Room rent waiver"],
+        "premium": "₹4,500 – ₹13,500 yearly",
+        "eligibility": "18–70 years",
+        "hospitals": "4,200+ hospitals"
+      },
+      {
+        "name": "Apex SuperCare",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Critical care", "AYUSH", "Worldwide emergency"],
+        "premium": "₹8,000 – ₹24,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,000+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "MediPrime Health",
+    "category": "Health Insurance",
+    "website": "https://www.mediprime.in",
+    "packages": [
+      {
+        "name": "MediPrime Silver",
+        "coverage": "₹3 Lakh – ₹30 Lakh",
+        "benefits": ["Hospital cash", "Ayush cover", "Ambulance"],
+        "premium": "₹3,200 – ₹10,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,800+ hospitals"
+      },
+      {
+        "name": "MediPrime Elite",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["No room rent limit", "Global treatment", "OPD cover"],
+        "premium": "₹7,000 – ₹25,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "7,900+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "Everest Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.everesthealth.in",
+    "packages": [
+      {
+        "name": "Everest Basic",
+        "coverage": "₹2 Lakh – ₹10 Lakh",
+        "benefits": ["Daily hospital cash", "AYUSH", "Ambulance cover"],
+        "premium": "₹2,500 – ₹8,000 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,900+ hospitals"
+      },
+      {
+        "name": "Everest Supreme",
+        "coverage": "₹5 Lakh – ₹50 Lakh",
+        "benefits": ["Free checkups", "Organ donor cover", "Maternity cover"],
+        "premium": "₹5,000 – ₹18,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "4,500+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "CareWell Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.carewellhealth.in",
+    "packages": [
+      {
+        "name": "CareWell Individual",
+        "coverage": "₹3 Lakh – ₹20 Lakh",
+        "benefits": ["Hospital accommodation", "Vaccination cover", "AYUSH"],
+        "premium": "₹3,800 – ₹9,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "4,000+ hospitals"
+      },
+      {
+        "name": "CareWell Family Saver",
+        "coverage": "₹5 Lakh – ₹50 Lakh",
+        "benefits": ["Family floater", "Annual wellness", "Accident cover"],
+        "premium": "₹6,500 – ₹15,500 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,200+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "PrimeHealth Assurance",
+    "category": "Health Insurance",
+    "website": "https://www.primehealth.in",
+    "packages": [
+      {
+        "name": "Prime Basic",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Daycare", "Diagnostics", "Pharmacy cover"],
+        "premium": "₹3,000 – ₹10,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,600+ hospitals"
+      },
+      {
+        "name": "Prime Premium",
+        "coverage": "₹5 Lakh – ₹75 Lakh",
+        "benefits": ["Organ donor cover", "Robotic surgery", "Worldwide care"],
+        "premium": "₹7,500 – ₹22,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,800+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "SecureLife Medical Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.securelife.in",
+    "packages": [
+      {
+        "name": "SecureLife Gold",
+        "coverage": "₹4 Lakh – ₹40 Lakh",
+        "benefits": ["Hospitalization", "Accident cover", "Nursing charges"],
+        "premium": "₹4,200 – ₹13,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "4,200+ hospitals"
+      },
+      {
+        "name": "SecureLife Platinum",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Unlimited restoration", "Global emergency", "Maternity"],
+        "premium": "₹9,000 – ₹28,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "7,100+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "HealthFirst India",
+    "category": "Health Insurance",
+    "website": "https://www.healthfirst.in",
+    "packages": [
+      {
+        "name": "HealthFirst Protect",
+        "coverage": "₹2 Lakh – ₹25 Lakh",
+        "benefits": ["AYUSH", "Preventive care", "Wellness rewards"],
+        "premium": "₹3,200 – ₹9,000 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "3,400+ hospitals"
+      },
+      {
+        "name": "HealthFirst Elite",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Organ transplant", "Mental health cover", "New-age treatments"],
+        "premium": "₹8,000 – ₹24,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "7,500+ hospitals"
+      }
+    ]
+  },
+  {
+    "company": "BlueCross India",
+    "category": "Health Insurance",
+    "website": "https://www.bluecrossindia.in",
+    "packages": [
+      {
+        "name": "BlueCross Basic",
+        "coverage": "₹2 Lakh – ₹10 Lakh",
+        "benefits": ["Hospital cash", "Ayush coverage", "Ambulance"],
+        "premium": "₹2,800 – ₹8,500 yearly",
+        "eligibility": "18–50 years",
+        "hospitals": "2,800+ hospitals"
+      },
+      {
+        "name": "BlueCross Supreme",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Organ donor", "Annual checkup", "Worldwide emergency"],
+        "premium": "₹6,800 – ₹20,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,200+ hospitals"
+      }
+    ]
+  },
+
+
+  {
+    "company": "TrustCare Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.trustcare.in",
+    "packages": [
+      {
+        "name": "TrustCare Silver",
+        "coverage": "₹2 Lakh – ₹25 Lakh",
+        "benefits": ["Ambulance cover", "AYUSH treatment", "X-ray & diagnostics"],
+        "premium": "₹3,200 – ₹9,800 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,200+ hospitals"
+      },
+      {
+        "name": "TrustCare Premium",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["No room rent limit", "Maternity cover", "ICU charges"],
+        "premium": "₹6,200 – ₹20,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "5,900+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "HealthFort India",
+    "category": "Health Insurance",
+    "website": "https://www.healthfort.in",
+    "packages": [
+      {
+        "name": "HealthFort Secure",
+        "coverage": "₹3 Lakh – ₹30 Lakh",
+        "benefits": ["Free checkups", "Daycare procedures", "Accident cover"],
+        "premium": "₹3,500 – ₹11,000 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "3,700+ hospitals"
+      },
+      {
+        "name": "HealthFort Ultra",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Worldwide care", "Maternity", "Restoration benefit"],
+        "premium": "₹7,000 – ₹23,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,100+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "GreenLeaf Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.greenleafhealth.in",
+    "packages": [
+      {
+        "name": "GreenLeaf Simple Care",
+        "coverage": "₹2 Lakh – ₹15 Lakh",
+        "benefits": ["Ayush treatment", "Room rent waiver", "Medicines"],
+        "premium": "₹2,900 – ₹8,400 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,950+ hospitals"
+      },
+      {
+        "name": "GreenLeaf Total Care",
+        "coverage": "₹5 Lakh – ₹50 Lakh",
+        "benefits": ["Annual checkups", "Vaccination", "Mental health cover"],
+        "premium": "₹5,200 – ₹15,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "5,200+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "LifeGuard India Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.lifeguardinsurance.in",
+    "packages": [
+      {
+        "name": "LifeGuard Basic",
+        "coverage": "₹2 Lakh – ₹10 Lakh",
+        "benefits": ["Ambulance", "Diagnostics", "Hospital cash"],
+        "premium": "₹2,500 – ₹7,500 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,500+ hospitals"
+      },
+      {
+        "name": "LifeGuard Master",
+        "coverage": "₹5 Lakh – ₹75 Lakh",
+        "benefits": ["Organ transplant", "AYUSH", "Maternity care"],
+        "premium": "₹6,000 – ₹16,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "4,900+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Unity Health Assurance",
+    "category": "Health Insurance",
+    "website": "https://www.unityhealth.in",
+    "packages": [
+      {
+        "name": "Unity Shield",
+        "coverage": "₹3 Lakh – ₹40 Lakh",
+        "benefits": ["Room rent waiver", "Accidental care", "OPD benefits"],
+        "premium": "₹3,800 – ₹11,800 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "3,900+ hospitals"
+      },
+      {
+        "name": "Unity MaxCare",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Transplants", "Global hospitalization", "New-age treatment"],
+        "premium": "₹8,500 – ₹24,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,600+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "Zenith Health Protect",
+    "category": "Health Insurance",
+    "website": "https://www.zenithhealth.in",
+    "packages": [
+      {
+        "name": "Zenith Vital",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Daycare", "Ambulance", "AYUSH"],
+        "premium": "₹2,900 – ₹9,500 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,700+ hospitals"
+      },
+      {
+        "name": "Zenith Ultimate",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Annual checkups", "Worldwide emergency", "Maternity"],
+        "premium": "₹8,000 – ₹22,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,100+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "BlueStar Medical Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.bluestarinsure.in",
+    "packages": [
+      {
+        "name": "BlueStar Secure",
+        "coverage": "₹3 Lakh – ₹25 Lakh",
+        "benefits": ["Hospitalization", "ICU cover", "AYUSH"],
+        "premium": "₹3,400 – ₹10,400 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,500+ hospitals"
+      },
+      {
+        "name": "BlueStar Premium",
+        "coverage": "₹5 Lakh – ₹75 Lakh",
+        "benefits": ["Worldwide cover", "Critical care", "Mental wellness"],
+        "premium": "₹7,800 – ₹20,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "5,800+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "MetroLife Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.metrolife.in",
+    "packages": [
+      {
+        "name": "MetroLife Silver",
+        "coverage": "₹3 Lakh – ₹20 Lakh",
+        "benefits": ["Diagnostics", "Hospital cash", "Ambulance"],
+        "premium": "₹3,300 – ₹9,700 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,300+ hospitals"
+      },
+      {
+        "name": "MetroLife Global",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Global care", "Maternity", "New-age treatments"],
+        "premium": "₹9,000 – ₹30,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,900+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "AlphaCare Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.alphacare.in",
+    "packages": [
+      {
+        "name": "AlphaCare Basic",
+        "coverage": "₹2 Lakh – ₹15 Lakh",
+        "benefits": ["Ambulance", "AYUSH", "Daycare"],
+        "premium": "₹2,600 – ₹7,800 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,700+ hospitals"
+      },
+      {
+        "name": "AlphaCare Premium",
+        "coverage": "₹10 Lakh – ₹80 Lakh",
+        "benefits": ["New-age treatments", "Maternity", "Global emergency"],
+        "premium": "₹6,000 – ₹18,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,400+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "CurePlus Health",
+    "category": "Health Insurance",
+    "website": "https://www.cureplus.in",
+    "packages": [
+      {
+        "name": "CurePlus Value",
+        "coverage": "₹2 Lakh – ₹25 Lakh",
+        "benefits": ["Diagnostics", "Hospitalization", "Ambulance"],
+        "premium": "₹2,800 – ₹9,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,100+ hospitals"
+      },
+      {
+        "name": "CurePlus Advance",
+        "coverage": "₹5 Lakh – ₹90 Lakh",
+        "benefits": ["Worldwide cover", "Critical illness", "Maternity"],
+        "premium": "₹7,500 – ₹21,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "5,900+ hospitals"
+      }
+    ]
+  }
+,
+  {
+    "company": "VitalLife Health Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.vitallife.in",
+    "packages": [
+      {
+        "name": "VitalLife Basic",
+        "coverage": "₹2 Lakh – ₹15 Lakh",
+        "benefits": ["AYUSH cover", "Ambulance", "Diagnostics"],
+        "premium": "₹2,900 – ₹8,800 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,900+ hospitals"
+      },
+      {
+        "name": "VitalLife Premium",
+        "coverage": "₹5 Lakh – ₹80 Lakh",
+        "benefits": ["Maternity", "Worldwide cover", "Free checkups"],
+        "premium": "₹6,500 – ₹17,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,800+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "ShieldPlus Medical",
+    "category": "Health Insurance",
+    "website": "https://www.shieldplus.in",
+    "packages": [
+      {
+        "name": "ShieldPlus Care",
+        "coverage": "₹3 Lakh – ₹30 Lakh",
+        "benefits": ["Hospitalization", "ICU cover", "Diagnostics"],
+        "premium": "₹3,500 – ₹10,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,300+ hospitals"
+      },
+      {
+        "name": "ShieldPlus Elite",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Mental health", "Organ transplant", "New-age treatments"],
+        "premium": "₹7,000 – ₹22,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,200+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "CuraHealth India",
+    "category": "Health Insurance",
+    "website": "https://www.curahealth.in",
+    "packages": [
+      {
+        "name": "CuraHealth Simple",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Ayush care", "Diagnostics", "Ambulance"],
+        "premium": "₹3,000 – ₹9,000 yearly",
+        "eligibility": "18–58 years",
+        "hospitals": "2,800+ hospitals"
+      },
+      {
+        "name": "CuraHealth TotalCare",
+        "coverage": "₹10 Lakh – ₹70 Lakh",
+        "benefits": ["Global emergency", "ICU care", "Maternity"],
+        "premium": "₹8,200 – ₹18,200 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,000+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "MediSafe India",
+    "category": "Health Insurance",
+    "website": "https://www.medisafe.in",
+    "packages": [
+      {
+        "name": "MediSafe Guard",
+        "coverage": "₹2 Lakh – ₹25 Lakh",
+        "benefits": ["Daycare", "AYUSH", "Ambulance"],
+        "premium": "₹2,700 – ₹8,700 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,500+ hospitals"
+      },
+      {
+        "name": "MediSafe Ultra",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Global cover", "Modern treatments", "Critical care"],
+        "premium": "₹9,500 – ₹24,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,200+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "PrimeMed Health",
+    "category": "Health Insurance",
+    "website": "https://www.primemed.in",
+    "packages": [
+      {
+        "name": "PrimeMed Silver",
+        "coverage": "₹2 Lakh – ₹15 Lakh",
+        "benefits": ["Hospitalization", "Diagnostics", "Ambulance"],
+        "premium": "₹3,200 – ₹9,000 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "3,300+ hospitals"
+      },
+      {
+        "name": "PrimeMed Platinum",
+        "coverage": "₹10 Lakh – ₹75 Lakh",
+        "benefits": ["Maternity", "ICU cover", "Advanced treatments"],
+        "premium": "₹8,000 – ₹22,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,800+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "HealthWorks India",
+    "category": "Health Insurance",
+    "website": "https://www.healthworks.in",
+    "packages": [
+      {
+        "name": "HealthWorks Basic",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Ambulance", "Diagnostics", "AYUSH"],
+        "premium": "₹2,600 – ₹7,800 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,600+ hospitals"
+      },
+      {
+        "name": "HealthWorks Advance",
+        "coverage": "₹5 Lakh – ₹80 Lakh",
+        "benefits": ["Free checkups", "Organ donor", "Maternity"],
+        "premium": "₹6,800 – ₹17,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,000+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "BrightHealth Assurance",
+    "category": "Health Insurance",
+    "website": "https://www.brighthealth.in",
+    "packages": [
+      {
+        "name": "BrightHealth Silver",
+        "coverage": "₹3 Lakh – ₹30 Lakh",
+        "benefits": ["Hospitalization", "24x7 support", "AYUSH"],
+        "premium": "₹3,500 – ₹11,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "3,800+ hospitals"
+      },
+      {
+        "name": "BrightHealth Global",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Worldwide cover", "Robotic surgery", "Maternity"],
+        "premium": "₹8,500 – ₹23,500 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,500+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "NovaCare India",
+    "category": "Health Insurance",
+    "website": "https://www.novacare.in",
+    "packages": [
+      {
+        "name": "NovaCare Standard",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Diagnostics", "Hospital cash", "Daycare"],
+        "premium": "₹2,900 – ₹8,800 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "2,700+ hospitals"
+      },
+      {
+        "name": "NovaCare Premium",
+        "coverage": "₹10 Lakh – ₹70 Lakh",
+        "benefits": ["Modern treatments", "Global emergency", "Maternity care"],
+        "premium": "₹7,800 – ₹20,500 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,200+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "LifeTrust Medical",
+    "category": "Health Insurance",
+    "website": "https://www.lifetrust.in",
+    "packages": [
+      {
+        "name": "LifeTrust Silver",
+        "coverage": "₹2 Lakh – ₹15 Lakh",
+        "benefits": ["Ambulance", "Diagnostics", "Recovery benefit"],
+        "premium": "₹2,700 – ₹8,200 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,400+ hospitals"
+      },
+      {
+        "name": "LifeTrust Gold",
+        "coverage": "₹5 Lakh – ₹1 Crore",
+        "benefits": ["Maternity", "Organ donor", "Global access"],
+        "premium": "₹8,000 – ₹24,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "6,000+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "MedicoPlus India",
+    "category": "Health Insurance",
+    "website": "https://www.medicoplus.in",
+    "packages": [
+      {
+        "name": "MedicoPlus Starter",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["Diagnostics", "Ambulance", "AYUSH"],
+        "premium": "₹2,500 – ₹7,500 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,300+ hospitals"
+      },
+      {
+        "name": "MedicoPlus Ultra",
+        "coverage": "₹10 Lakh – ₹75 Lakh",
+        "benefits": ["Critical illness", "Organ transplant", "Global care"],
+        "premium": "₹8,200 – ₹22,000 yearly",
+        "eligibility": "18–60 years",
+        "hospitals": "5,800+ hospitals"
+      }
+    ]
+  },
+
+  {
+    "company": "ProHealth Insurance",
+    "category": "Health Insurance",
+    "website": "https://www.prohealth.in",
+    "packages": [
+      {
+        "name": "ProHealth Basic",
+        "coverage": "₹2 Lakh – ₹20 Lakh",
+        "benefits": ["AYUSH", "Diagnostics", "Ambulance"],
+        "premium": "₹2,700 – ₹8,000 yearly",
+        "eligibility": "18–55 years",
+        "hospitals": "2,500+ hospitals"
+      },
+      {
+        "name": "ProHealth Global",
+        "coverage": "₹10 Lakh – ₹1 Crore",
+        "benefits": ["Global cover", "Modern surgery", "Maternity"],
+        "premium": "₹8,900 – ₹26,000 yearly",
+        "eligibility": "18–65 years",
+        "hospitals": "6,700+ hospitals"
+      }
+    ]
+  }
+]
+

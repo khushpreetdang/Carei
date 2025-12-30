@@ -1,0 +1,248 @@
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    background-color: #f8fafc;
+    color: #0a0a23;
+}
+
+
+.main-header {
+   
+    color: white;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 60px;  
+    background-color: transparent;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 80px;  
+    width: 100px;
+    background-color: transparent;
+    mix-blend-mode: multiply; 
+}
+
+
+.contact-info {
+    text-align: right;
+}
+
+.contact-info p {
+    margin: 2px 0;
+    font-size: 13px;
+    color: #0a6ca8;
+}
+
+.contact-info a {
+    color: #0a6ca8;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+
+.navbar {
+    background-color: #0a6ca8;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    padding: 10px 0;
+    position: sticky;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: #ffe700;
+}
+
+.section {
+    padding: 60px 80px;
+}
+
+.alt {
+    background-color: #eef6ff;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.contentfull {
+    max-width: 600px;
+}
+
+.Careiname {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.Careiname2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #0f81d2;
+    margin-bottom: 15px;
+}
+
+.frontpara {
+    font-size: 18px;
+    color: #002a63;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.specialcon {
+    font-size: 16px;
+    line-height: 1.7;
+    color: navy;
+    padding-left: 20px;
+}
+
+.frontpageimg {
+    width: 450px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.25);
+}
+
+.frontbtn {
+    height: 45px;
+    width: 200px;
+    color: white;
+    background-color: #0f81d2;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.frontbtn:hover {
+    background-color: #0b5e9e;
+}
+
+
+.footer-line {
+    width: 90%;
+    margin: 60px auto 0;
+    border: none;
+    border-top: 2px solid #c0cfe4;
+}
+
+.about-footer {
+    background-color: #0b213f;
+    color: white;
+    padding: 50px 80px 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.about-info, .support-links, .contact-footer {
+    flex: 1;
+    min-width: 250px;
+}
+
+.about-info h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+    color: #00aaff;
+}
+
+.about-info p {
+    line-height: 1.6;
+    color: #d8e6f3;
+}
+
+.support-links h3,
+.contact-footer h3 {
+    color: #00aaff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.support-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.support-links li {
+    margin-bottom: 8px;
+}
+
+.support-links a {
+    color: #d8e6f3;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.support-links a:hover {
+    color: #00c3ff;
+}
+
+.contact-footer p {
+    margin: 6px 0;
+    color: #d8e6f3;
+    font-size: 15px;
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #1a385f;
+    padding-top: 10px;
+    color: #c5d9ee;
+    font-size: 14px;
+}
+
+
+@media (max-width: 900px) {
+    .content {
+        flex-direction: column;
+        text-align: center;
+    }
+    .frontpageimg {
+        width: 100%;
+        max-width: 400px;
+    }
+    .navbar {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }
+}
