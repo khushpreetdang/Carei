@@ -1,8 +1,18 @@
 # Carei
 
-This is a frontend project created using Create React App.
+Carei is a frontend web application built using Create React App and deployed on Vercel.
 
-## Getting Started
+## 🚀 Live Demo
+https://carei-six.vercel.app
+
+## 🛠 Tech Stack
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vercel (Deployment)
+
+## 📦 Getting Started
 
 ### `npm start`
 Runs the app in development mode.  
